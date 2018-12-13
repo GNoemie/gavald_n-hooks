@@ -1,5 +1,6 @@
 import React from 'react';
 import FavouriteToggle from './FavouriteToggle';
+import ScoreCounter from './ScoreCounter';
 import { useState } from 'react';
 
 const Post = ({ data }) => {
@@ -27,7 +28,8 @@ const Post = ({ data }) => {
     <FavouriteToggle style={{ float: 'right' }} />
     <div style={{ fontWeight: '900' }}>{body}</div>     
 
-    
+    <ScoreCounter></ScoreCounter>
+
   </li>
   )
 };
