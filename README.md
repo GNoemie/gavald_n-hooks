@@ -1,6 +1,6 @@
-## Test hooks in JS/react app
+# Test hooks in JS/react app
 
-# Getting started
+## Getting started
 
 ```
 npm install
@@ -10,7 +10,7 @@ npm install
 npm run dev
 ```
 
-# Authors
+## Authors
 
 * **Noemie GAVALDA**
 * **Quentin PRE**
