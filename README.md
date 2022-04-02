@@ -12,5 +12,5 @@ npm run dev
 
 ## Authors
 
-* **Noemie GAVALDA**
+* **Noemie G**
 * **Quentin PRE**
